@@ -5,3 +5,7 @@
 Program translates normal expressions to reverse polish notation using simpla stack algorithm.
 
 ![](1.PNG)
+
+# Authors
+
+* Eldar Shayahmetov, eldarsharpey@gmail.com
